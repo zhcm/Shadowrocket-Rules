@@ -1,0 +1,4 @@
+DOMAIN,seed.siri.apple.com,PROXY
+DOMAIN,api-siri-prod.apple.com,PROXY
+DOMAIN,gateway.icloud.com,PROXY
+DOMAIN,mask-api.icloud.com,PROXY
